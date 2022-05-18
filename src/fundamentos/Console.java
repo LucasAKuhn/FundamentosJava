@@ -10,7 +10,7 @@ public class Console {
 		
 		Scanner entrada = new Scanner(System.in); //Recebendo dados digitados no console
 		
-		System.out.println("Digite seu idade:");
+		System.out.println("Digite sua idade:");
 		int idade = entrada.nextInt();	//Valores INTEIROS
 		entrada.nextLine();	//Resolvendo BUG do \n (enter)
 		
