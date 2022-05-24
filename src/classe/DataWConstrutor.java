@@ -15,9 +15,9 @@ public class DataWConstrutor {
 	
 	
 	DataWConstrutor(int diaInicial, int mesInicial, int anoInicial) {
-		dia = diaInicial;
-		mes = mesInicial;
-		ano = anoInicial;
+		this.dia = diaInicial;
+		this.mes = mesInicial;
+		this.ano = anoInicial;
 	}
 	
 	//metodo criado por mim
