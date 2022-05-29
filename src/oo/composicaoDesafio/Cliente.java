@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Cliente {
 
-	String nome;
+	String nome; 
 	
 	Cliente(String nome) {
 		this.nome = nome;

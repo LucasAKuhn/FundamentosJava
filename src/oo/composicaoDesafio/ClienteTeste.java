@@ -12,6 +12,6 @@ public class ClienteTeste {
 		Produto p2 = new Produto("Lapis", 3, 1.60 );
 		Produto p3 = new Produto("Caderno", 2, 8.90 );
 		
-		System.out.println(c1.nome);
+		System.out.println();
 	}
 }
