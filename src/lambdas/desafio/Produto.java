@@ -1,4 +1,4 @@
-package lambdas;
+package lambdas.desafio;
 
 public class Produto {
 
@@ -14,5 +14,3 @@ public class Produto {
 	
 	
 }
-
-

@@ -4,6 +4,8 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.function.Consumer;
 
+import lambdas.desafio.Produto;
+
 public class Consumidor {
 
 	public static void main(String[] args) {
